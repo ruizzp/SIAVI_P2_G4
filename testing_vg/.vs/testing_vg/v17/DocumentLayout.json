@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projetos\\testing_vg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{621FD760-9715-DBFC-0C9F-0AF63CAA6BFB}|Assembly-CSharp.csproj|f:\\projetos\\testing_vg\\assets\\scripts\\gesturecursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621FD760-9715-DBFC-0C9F-0AF63CAA6BFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gesturecursorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621FD760-9715-DBFC-0C9F-0AF63CAA6BFB}|Assembly-CSharp.csproj|f:\\projetos\\testing_vg\\assets\\scripts\\voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621FD760-9715-DBFC-0C9F-0AF63CAA6BFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\voicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{621FD760-9715-DBFC-0C9F-0AF63CAA6BFB}|Assembly-CSharp.csproj|f:\\projetos\\testing_vg\\assets\\scripts\\gesturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{621FD760-9715-DBFC-0C9F-0AF63CAA6BFB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gesturedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestureCursorController.cs",
+              "DocumentMoniker": "F:\\Projetos\\testing_vg\\Assets\\Scripts\\GestureCursorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GestureCursorController.cs",
+              "ToolTip": "F:\\Projetos\\testing_vg\\Assets\\Scripts\\GestureCursorController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GestureCursorController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwGUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:36:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoiceManager.cs",
+              "DocumentMoniker": "F:\\Projetos\\testing_vg\\Assets\\Scripts\\VoiceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VoiceManager.cs",
+              "ToolTip": "F:\\Projetos\\testing_vg\\Assets\\Scripts\\VoiceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VoiceManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowE8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:54:24.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestureData.cs",
+              "DocumentMoniker": "F:\\Projetos\\testing_vg\\Assets\\Scripts\\GestureData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GestureData.cs",
+              "ToolTip": "F:\\Projetos\\testing_vg\\Assets\\Scripts\\GestureData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GestureData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T13:38:45.513Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
